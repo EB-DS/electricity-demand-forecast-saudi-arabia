@@ -7,7 +7,7 @@ This repository contains the full, reproducible analysis supporting the article:
 
 The project examines regional electricity demand dynamics in Saudi Arabia using monthly load data and compares traditional time-series models with machine learning approaches.
 
----
+
 
 ## Overview
 
@@ -18,7 +18,7 @@ Electricity demand forecasting plays a critical role in system reliability, capa
 
 The analysis focuses on regional peak demand behavior rather than national aggregates.
 
----
+
 
 ## Data
 
@@ -29,7 +29,7 @@ The analysis focuses on regional peak demand behavior rather than national aggre
 
 The dataset is publicly available through KAPSARC and is included here for research and educational purposes.
 
----
+
 
 ## Methods
 
@@ -39,7 +39,7 @@ The dataset is publicly available through KAPSARC and is included here for resea
 - Model evaluation using RMSE and MAPE  
 - Cross-regional comparison of forecasting performance  
 
----
+
 
 ## Repository Structure
 
@@ -48,20 +48,20 @@ The dataset is publicly available through KAPSARC and is included here for resea
 - `figures/` – Visualizations used in the article  
 - `requirements.txt` – Python dependencies  
 
----
+
 
 ## Reproducibility
 
 All code and results in this repository are fully reproducible.  
 The notebooks are designed to run end-to-end using only publicly available data.
 
----
+
 
 ## License
 
 This project is released under the MIT License.
 
----
+
 
 ## Author
 
