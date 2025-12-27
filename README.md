@@ -1,5 +1,4 @@
-# electricity-demand-forecast-saudi-arabia
-Reproducible analysis of regional electricity demand forecasting in Saudi Arabia using SARIMA and machine learning, based on open KAPSARC energy data.
+
 # Forecasting Regional Electricity Demand in Saudi Arabia
 
 This repository contains the full, reproducible analysis supporting the article:
