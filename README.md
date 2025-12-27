@@ -1,3 +1,4 @@
+<img width="979" height="730" alt="image" src="https://github.com/user-attachments/assets/abb846d3-bc68-4476-8739-92e7d698c91c" />
 
 # Forecasting Regional Electricity Demand in Saudi Arabia
 
